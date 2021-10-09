@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Oii eu sou a Ana Souza 👋 </h1>
+<h1 align="center"> Oii eu sou a Ana 👋 </h1>
 
 - 📚 Atualmente aprendendo HTML, CSS e Javascript;
 - 😄 Pronouns: Ela/Dela;
