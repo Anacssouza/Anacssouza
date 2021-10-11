@@ -2,10 +2,12 @@
 
 <h1 align="center"> Oii eu sou a Ana 👋 </h1>
 
-- 📚 Atualmente aprendendo HTML, CSS e Javascript;
-- 😄 Pronouns: Ela/Dela;
-- 🤩 Apaixonada por tecnologia.
-
+<div style="display:flex" width="100%">
+  <p align="left"> 📚 Atualmente aprendendo HTML, CSS e Javascript <img align="right" alt="mario-gif" height="105" width="105" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif"> </p>
+  <p> 😄 Pronouns: Ela/Dela  </p>
+  <p> 🤩 Apaixonada por tecnologia </p>
+</div>
+  
 <br>
 <div align="center" width="100%">
   <a href="https://github.com/Anacssouza">
