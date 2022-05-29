@@ -1,11 +1,12 @@
 
 
-<h1 align="center"> Oii eu sou a Ana 👋 </h1>
+<h1 align="center"> 👋  Oii eu sou a Ana </h1>
 
-<div style="display:flex" width="100%">
-  <p align="left"> 📚 Atualmente aprendendo HTML, CSS e Javascript <img align="right" alt="mario-gif" height="105" width="105" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif"> </p>
-  <p> 😄 Pronouns: Ela/Dela  </p>
-  <p> 🤩 Apaixonada por tecnologia </p>
+<div style="display:"flex" align="center">
+      <p> 📚 Atualmente aprendendo HTML, CSS e Javascrip 📚 </p>
+      <p> 😄 Pronouns: Ela/Dela 😄 </p>
+      <p> 🤩 Apaixonada por tecnologia 🤩 </p> 
+      <img alt="mario-gif" height="100" width="100" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif">
 </div>
   
 <br>
