@@ -3,8 +3,7 @@
 <h1 align="center"> 👋  Oii eu sou a Ana </h1>
 
 <div style="display:"flex" align="center">
-      <p> 📚 Aprendendo um pouco de tudo 📚 </p>
-      <p> 🤩 Apaixonada por tecnologia 🤩 </p> 
+      <p> 📚 Aprendendo um pouco de tudo 📚 </p> 
       <img alt="mario-gif" height="100" width="100" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif">
 </div>
   
