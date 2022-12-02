@@ -3,8 +3,7 @@
 <h1 align="center"> 👋  Oii eu sou a Ana </h1>
 
 <div style="display:"flex" align="center">
-      <p> 📚 Atualmente aprendendo HTML, CSS e Javascrip 📚 </p>
-      <p> 😄 Pronouns: Ela/Dela 😄 </p>
+      <p> 📚 Aprendendo um pouco de tudo 📚 </p>
       <p> 🤩 Apaixonada por tecnologia 🤩 </p> 
       <img alt="mario-gif" height="100" width="100" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif">
 </div>
@@ -21,6 +20,12 @@
   <img align="center" alt="ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="ana-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="ana-.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="ana-SQLServer" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="ana-SQLServer" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
 </div>
 
   ##
