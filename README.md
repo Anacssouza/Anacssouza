@@ -6,12 +6,12 @@
       <p> 📚 Aprendendo um pouco de tudo 📚 </p> 
       <img alt="mario-gif" height="100" width="100" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif">
 </div>
-  
-<br>
+                                                                                                           
+<br />
+                                                                                                           
 <div align="center" width="100%">
-  <a href="https://github.com/Anacssouza">
-  <img height="184em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Anacssouza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacssouza&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true""/>
+  <img height="184em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Anacssouza&theme=omni&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacssouza&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
  
 <div style="display: inline_block" align="center"><br>
