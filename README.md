@@ -1,10 +1,10 @@
 
 
-<h1 align="center"> 👋  Oii eu sou a Ana </h1>
+<h1 display:"flex" align="center"> 👋 eu sou a Ana </h1>
 
-<div style="display:"flex" align="center">
-      <p> 📚 Aprendendo um pouco de tudo 📚 </p> 
-      <img alt="mario-gif" height="100" width="100" src="https://c.tenor.com/PJCc9C5UQVAAAAAC/mario-ok.gif">
+<div display:"flex" align="center">
+      <p width=50%> Estudante de Tecnologias da Informação e Comunicação, <br> que é apaixonada por tecnologia, novas experiências  <br> e pela busca por conhecimento. </p> 
+      <img alt="mario-gif" height="30%" width="30%" src="https://i.pinimg.com/564x/17/6a/52/176a52cb12e9ffc2962c742d853a0a85.jpg">
 </div>
                                                                                                            
 <br />
