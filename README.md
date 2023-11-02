@@ -1,4 +1,4 @@
-<h1 display:"flex" align="center"> 👋 eu sou a Ana </h1>
+<h1 display:"flex" align="center"> Hello 👋 eu sou a Ana </h1>
 
 <div display:"flex" align="center">
       <p width=50%> Estudante de Tecnologias da Informação e Comunicação, <br> que é apaixonada por tecnologia, novas experiências  <br> e pela busca por conhecimento. </p> 
