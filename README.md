@@ -21,6 +21,7 @@
       <img align="center" alt="ana-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
       <img align="center" alt="ana-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" alt="ana-Cypress" height="40" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png" />
+      <img align="center" alt="ana-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
       
 </div>
 
